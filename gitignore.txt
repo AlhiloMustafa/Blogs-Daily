@@ -1,0 +1,5 @@
+.DS_Store
+.node_modules
+.mime.cmd
+.mime
+.mime.ps1
