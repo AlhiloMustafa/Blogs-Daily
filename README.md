@@ -15,15 +15,13 @@ Build full web-app using templating; it is very minimalistic and mostly focused 
 * Now the web-app running; you can use the code and play round
 
 ## Summary 
-I hope this project can help new web developers to build their own website with node.js., it helps to understand:
-* What the node.js directory structure
+I hope this project can help new web developers to build their own website with node.js. This project helps them to to understand:
+* The node.js directory structure
 * Rendered the text dynamically using EJS
 * Understand EJS layout and partials 
 * Routing in nod.js and paths
 * Passing over the data among pages and using body-parser
 * Appling and understand express routing parameters
-
-
 
 ## Resources:
 #### The project was an assignment; and the course taught by Dr. Angela Yu
