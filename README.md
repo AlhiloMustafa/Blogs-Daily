@@ -15,7 +15,7 @@ Build full web-app using templating; it is very minimalistic and mostly focused 
 * Now the web-app running; you can use the code and play round
 
 ## Summary 
-I hope this project can help new web developers to build their own website with node.js. This project helps them to to understand:
+I hope this project can help new web developers to build their own website with node.js. This project helps them to understand:
 * The node.js directory structure
 * Rendered the text dynamically using EJS
 * Understand EJS layout and partials 
